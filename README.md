@@ -1,4 +1,5 @@
-# Youtube_Spotify-Player-DLer Beta (The listen mode is still in progress, which can only provide simple play and pause)
+# Youtube_Spotify-Player-DLer Beta 
+(The listen mode is still in progress, which can only provide simple play and pause)
 
 Looking for a awesome music downloader? Maybe you can try this Youtube_Spotify-Player-DLer
 We provide two modes: Downloading and Listening. 
