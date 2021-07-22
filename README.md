@@ -1,6 +1,8 @@
 # Youtube_Spotify-Player-DLer Beta 
 (The listen mode is still in progress, which can only provide simple play and pause)
 
+To use, first you need to install ffmpeg in https://ffmpeg.org/download.html. And I am trying to find solution to tackle this problem.
+
 Looking for a awesome music downloader? Maybe you can try this Youtube_Spotify-Player-DLer
 We provide two modes: Downloading and Listening. 
 ![menu](https://user-images.githubusercontent.com/79691025/126663269-cf15a193-3b63-4c09-9e61-ea3108644ab2.PNG)
