@@ -1,4 +1,4 @@
-# Youtube_Spotify-Player-DLer Beta 
+# 👾👾Youtube_Spotify-Player-DLer Beta 👾👾
 (The listen mode is still in progress, which can only provide simple play and pause)
 
 To use, first you need to install ffmpeg in https://ffmpeg.org/download.html. And I am trying to find solution to tackle this problem.  And you need to install the font in Font folder to ensure better visual effect.
