@@ -1,7 +1,7 @@
 # Youtube_Spotify-Player-DLer Beta 
 (The listen mode is still in progress, which can only provide simple play and pause)
 
-To use, first you need to install ffmpeg in https://ffmpeg.org/download.html. And I am trying to find solution to tackle this problem.
+To use, first you need to install ffmpeg in https://ffmpeg.org/download.html. And I am trying to find solution to tackle this problem.  And you need to install the font in Font folder to ensure better visual effect.
 
 Looking for a awesome music downloader? Maybe you can try this Youtube_Spotify-Player-DLer
 We provide two modes: Downloading and Listening. 
@@ -9,7 +9,8 @@ We provide two modes: Downloading and Listening.
 
 You can choose either downloading Spotify or Youtube platform each time, by entering link to entry and pressing the corresponding button and waiting for the downloading.
 
-When you download spotify music, a Spotify webpage is login and require you to login in the spotify for authentication. Username and password is provided to user if they don't have certain account. 
+When you download spotify music, a Spotify webpage is login and require you to login in the spotify for authentication. Username and password is provided to user if they don't have certain account. And, wait for the download. (Sometimes it would report as this app is crashed, and it's busying in downloading. You can check whether by looking in the download file)
+
 With a message and notifaction sound, your musics are ready for you! (Spped depends on your network and quantiry)
 ![download](https://user-images.githubusercontent.com/79691025/126663763-c9fc85d9-bb70-45f9-820d-3cecdf8c4a6d.PNG)
 
