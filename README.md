@@ -19,8 +19,9 @@ With a message and notifaction sound, your musics are ready for you! (Spped depe
 
 
 What to test with the music? Try this player to enjoy a special experience!!
-(This function is not accomplished completely, I would improve as soon as possible)
+(This function would no longer be accomplished by Python, but built-in by Java later in both PC and mobile version -- maybe within 1-2 years)
 ![listen](https://user-images.githubusercontent.com/79691025/126663776-8bd77fc5-98e2-4ab6-a711-6f9cef19bc37.PNG)
+
 
 
 If you have any queries and difficiulies, and even some feedbacks to me, please let me know. Your opinion is valuable for me :)
