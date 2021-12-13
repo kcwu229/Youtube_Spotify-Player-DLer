@@ -278,7 +278,7 @@ class Music_Downloader_Player():
         self.play_button = Button(self.win, image=play_but, relief=GROOVE, highlightthickness=0, bd=0,
                                   command=self.playing)
         self.play_button_forget = Button(self.win, image=play_but, relief=GROOVE, highlightthickness=0, bd=0,
-                                         command=lambda: self.play_button.pack_forget())
+                                         command=lambda: self.play_button.pack_forget())   # Groove is one of the 3d effect
         next_button = Button(self.win, image=next_but, relief=GROOVE, highlightthickness=0, bd=0, command=self.next_song)
         prev_button = Button(self.win, image=prev_but, relief=GROOVE, highlightthickness=0, bd=0, command=self.prev_song)
         self.p_button = Button(self.win, image=p_but, relief=GROOVE, highlightthickness=0, bd=0, command=self.pausing)
