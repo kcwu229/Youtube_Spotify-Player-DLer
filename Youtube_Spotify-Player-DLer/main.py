@@ -161,8 +161,8 @@ class Music_Downloader_Player():
                 try:
                     with youtube_dl.YoutubeDL(self.ydl_opts) as ydl:
                         ydl.download([playlist_url])
-                        info_dict = ydl.extract_info(playlist_url, download=False)
-                        video_title = info_dict.get('title', None)
+                        info_dict = ydl.extract_info(playlist_url, download=False) # Only want to extract the info
+                        video_title = info_dict.get('title', None) # extract the tilt of music
                         self.text.insert("end", f'{i}: {video_title}' + "\t\n")
                 except:
                     self.text.insert("end", f'Error in downloading following song  {i}: {video_title}' + "\n")
@@ -176,7 +176,7 @@ class Music_Downloader_Player():
                     info_dict = ydl.extract_info(self.run_url)
                     ydl.download([self.run_url])
                     for i in self.json["items"]:
-                        self.text.insert("end", f'{i["snippet"]["title"]}' + "\n")
+                        self.text.insert("end", f'{i["snippet"]["title"]}' + "\n")  # Showing the test inside the Textbox
             except:
                 self.text.insert("end", f'Error in downloading following song: {i["snippet"]["title"]}' + "\n")
 
